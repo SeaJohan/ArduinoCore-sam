@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduino-sam",
+    "description": "Arduino Core for Atmel's SAM3X processor",
+    "url": "https://github.com/SeaJohan/ArduinoCore-sam",
+    "version": "1.6.12"
+}
